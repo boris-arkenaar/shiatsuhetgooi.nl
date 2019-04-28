@@ -1,0 +1,8 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+sectionPagesMenu = "main"
+title = "Shiatsu het Gooi"
+theme = "shg"
+
+[blackfriday]
+  extensions = ["hardLineBreak"]

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="nl">
+  {{- partial "head.html" . -}}
+  <body>
+    <div id="main">
+      <div id="mainOuter">
+        <div id="mainInner">
+          <div id="mainRight">
+            <div id="mainTitle">
+              <h1>Shiatsu het Gooi</h1>
+              <h2>{{ .Title }}</h2>
+            </div>
+            <div id="mainContent">
+
+              <div id="content">
+                {{- block "main" . }}{{- end }}
+              </div>
+
+            </div>
+          </div>
+          <div id="mainLeft">
+            <div id="social-bar">
+              <a href="https://www.facebook.com/shiatsuhetgooi"><img src="/facebook.svg" alt="Facebook" width="32" height="32"></a>
+            </div>
+
+            <div id="mainMenu">
+              <h1>Website navigatie</h1>
+              <ul>
+                {{ $currentPage := . }}
+                {{ range .Site.Menus.main }}
+                <li class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}">
+                  <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+                </li>
+                {{ end }}
+              </ul>
+            </div>
+          </div>
+          <div id="footer">
+            <p class="author">Deze website is gemaakt door <a href="http://apptoad.nl">appTOAD</a>.</p>
+            <p class="copyright">© 2009 - 2018 Shiatsu het Gooi</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    {{- partial "header.html" . -}}
+    {{- partial "footer.html" . -}}
+  </body>
+</html>
