@@ -1,7 +1,5 @@
 ---
 title: "Welkom"
-date: 2019-04-28T11:37:49+02:00
-draft: true
 menu:
   main:
     weight: 100
