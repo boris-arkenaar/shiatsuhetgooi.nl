@@ -28,9 +28,17 @@
               <ul>
                 {{ $currentPage := . }}
                 {{ range .Site.Menus.main }}
-                <li class="{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}active{{end}}">
-                  <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
-                </li>
+                  <li
+                    class="
+                      {{- if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) -}}
+                        active
+                      {{- end -}}
+                      {{- with .Page -}}
+                        {{if (.Params.devider) }} gap{{end}}
+                      {{- end -}}"
+                  >
+                    <a href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+                  </li>
                 {{ end }}
               </ul>
             </div>
