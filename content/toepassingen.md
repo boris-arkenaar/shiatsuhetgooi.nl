@@ -3,7 +3,7 @@ title: Toepassingen
 devider: false
 menu:
   main:
-    weight: '100'
+    weight: 300
 ---
 <img alt="Behandeling" src="/uploads/behandeling3.jpg" style="float: right" />
 
