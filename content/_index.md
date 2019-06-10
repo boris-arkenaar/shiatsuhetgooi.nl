@@ -1,10 +1,10 @@
 ---
-title: "Welkom"
+title: Welkom
+devider: false
 menu:
   main:
     weight: 100
 ---
-
 <div style="float: right; width: 300px; text-align: center;"><a href="http://piith.nl"><img src="http://piith.nl/wp-content/uploads/2015/08/Piith-Logo_medium.png" alt="Piith" width="300" height="150"></a>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -40,7 +40,7 @@ Ik nodig je uit om op deze site rond te kijken en te ontdekken wat Shiatsu is, w
 
 <center>
 
-![Behandeling](/fotos/behandeling1.jpg)
+![Behandeling](/uploads/behandeling1.jpg)
 
 \
 Shiatsu helpt het lichaam herinneren hoe het bedoeld is te zijn.
