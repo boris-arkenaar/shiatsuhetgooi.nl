@@ -126,17 +126,17 @@ html, body
 img[src*='#center']
 {
   display: block;
-  margin: 5px auto;
+  margin: 15px auto;
 }
 img[src*='#left']
 {
   float: left;
-  margin: 5px 5px 5px 0;
+  margin: 15px 15px 15px 0;
 }
 img[src*='#right']
 {
   float: right;
-  margin: 5px 0 5px 5px;
+  margin: 15px 0 15px 15px;
 }
 h3
 {
