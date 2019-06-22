@@ -5,7 +5,7 @@ menu:
   main:
     weight: 300
 ---
-<img alt="Behandeling" src="/uploads/behandeling3.jpg" style="float: right" />
+![Behandeling](/uploads/behandeling3.jpg#right)
 
 ### Voor wie is Shiatsu bedoeld?
 

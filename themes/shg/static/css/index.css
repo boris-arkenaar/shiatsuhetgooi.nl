@@ -123,6 +123,21 @@ html, body
   height: 430px;
   overflow: auto;
 }
+img[src*='#center']
+{
+  display: block;
+  margin: 5px auto;
+}
+img[src*='#left']
+{
+  float: left;
+  margin: 5px 5px 5px 0;
+}
+img[src*='#right']
+{
+  float: right;
+  margin: 5px 0 5px 5px;
+}
 h3
 {
   margin: 21px 0 14px 0;

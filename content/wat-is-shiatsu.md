@@ -7,7 +7,8 @@ menu:
 ---
 ### Oorsprong
 
-<img alt="Behandeling" src="/uploads/behandeling2.jpg" style="float: right;" />De wortels van Shiatsu zijn eeuwenoud en liggen in India en China.\
+![Behandeling](/uploads/behandeling2.jpg#right)
+De wortels van Shiatsu zijn eeuwenoud en liggen in India en China.\
 Vervolgens heeft het zich als manuele therapie in Japan verder ontwikkeld en behoort het daar tot  de traditionele en preventieve geneeskunde, bedoeld om de gezondheid te behouden en te bevorderen.\
 Sinds 1970 wordt Shiatsu ook in Europa onderwezen en meer en meer met de Westerse medische kennis geïntegreerd en toegepast.\
 De Japanse Shiatsu traditie wordt op een unieke manier gecombineerd met de Traditionele Chinese Geneeskunde. Deze geneeskunde, gebaseerd op onder andere Yin en Yang en de Vijf Elementen, wordt in bijna alle Chinese ziekenhuizen met succes toegepast.\
