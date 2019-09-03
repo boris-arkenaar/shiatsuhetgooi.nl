@@ -4,7 +4,7 @@ menu:
   main:
     weight: 400
 ---
-![Luna Westerik](/uploads/mg_7735_klein.jpg)
+![Luna Westerik](/uploads/mg_7735_klein.jpg#right)
 Mijn naam is Luna Westerik, woonachtig en werkzaam te Bussum.\
 Geboren op de dag van de winterzonnewende.\
 Moeder van een handvol kinderen uit 1981 tot 1993 die ik vanaf de geboorte van de jongste alle vijf alleen heb grootgebracht met tomeloze energie, humor en vooral loslaten.\
@@ -36,7 +36,7 @@ En in 2018 **Kracht**.
 Kijk voor meer info over Oerloop, Kracht, Zielenkaarten en Handanalyse bij: \
 http://piith.nl/wie-doet-wat/luna-westerik/
 
-[![Piith](http://piith.nl/wp-content/uploads/2013/08/Piith-Logo-klein-wit-r.jpg)](http://piith.nl)
+[![Piith](http://piith.nl/wp-content/uploads/2013/08/Piith-Logo-klein-wit-r.jpg#right)](http://piith.nl)
 
 Na ruim drie jaar een praktijk in Naarden te hebben gehad, ben ik sinds begin 2013 oprichter, eigenaar en manager van de holistische groepspraktijk Piith voor complementaire geneeskunde en behandelwijzen, lessen en workshops.
 
