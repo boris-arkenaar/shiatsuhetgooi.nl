@@ -2,7 +2,7 @@
 title: Kosten
 menu:
   main:
-    weight: 400
+    weight: 1200
 ---
 <table cellpadding="3">
 <thead>
@@ -80,4 +80,4 @@ Dan bestaat er nog de mogelijkheid van een **cadeaubon**, origineel als verrassi
 
 ![Behandeling](/uploads/behandeling5.jpg#right)
 
-###
+
