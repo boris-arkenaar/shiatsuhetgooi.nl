@@ -2,7 +2,7 @@
 title: Vruchtbaarheid en zwangerschap
 menu:
   main:
-    weight: 400
+    weight: 500
 ---
 In Spanje heb ik in de zomer van 2013 een heel mooie vruchtbaarheidsbehandeling geleerd.  
 
