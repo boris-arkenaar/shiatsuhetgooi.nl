@@ -2,7 +2,7 @@
 title: Japanse gezichtsmassage
 menu:
   main:
-    weight: 400
+    weight: 800
 ---
 ![Japanse gezichtsmassage](/uploads/japanse-gezichtsmassage.jpg#right)
 
