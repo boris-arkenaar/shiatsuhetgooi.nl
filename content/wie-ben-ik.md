@@ -2,7 +2,7 @@
 title: Wie ben ik
 menu:
   main:
-    weight: 400
+    weight: 1400
 ---
 ![Luna Westerik](/uploads/mg_7735_klein.jpg#right)
 Mijn naam is Luna Westerik, woonachtig en werkzaam te Bussum.\
