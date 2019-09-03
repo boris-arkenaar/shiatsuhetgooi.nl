@@ -2,7 +2,7 @@
 title: GezichtsYoga
 menu:
   main:
-    weight: '100'
+    weight: 400
 ---
 Ja dat is gekke bekken trekken.  
 
@@ -16,8 +16,8 @@ Gezichtsyoga draagt bij aan een frisse uitstraling, stralende lach, opgewekte oo
 
 Je gaat er op den duur opgeruimd en jonger uitzien! Zo anti-aging werkt dat en beter dan botox!
 
+![GezichtsYoga](/uploads/gezichtsyoga2.jpg#right)
 
-![GezichtsYoga](/uploads/gezichtsyoga.jpg#right)
 In de les – ook wel heel hip Face Yoga en vroeger Gezichts Gymnastiek genoemd – leer je krachtig de spieren van gezicht en hals ontwikkelen, zodat je expressie soepel en levendig wordt. De yoga helpt je gelaat ontspannen. De liftende massage die je bij jezelf gaat doen stimuleert alle cellulaire functies van huid, spieren en bot, de bloedcirculatie en het lymfatisch systeem, de collagene en elastine vezels, huidskleur en stevigheid.
 
 Onlangs werd in de pers bekend gemaakt dat de nieuwe verloofde van de Britse prins Harry, Meghan Markle, haar gezicht zo mooi houdt dankzij orale massage.  
