@@ -2,7 +2,7 @@
 title: Kinderen
 menu:
   main:
-    weight: 400
+    weight: 600
 ---
 Ook kinderen - of juist kinderen - hebben periodes dat ze wat minder goed in hun vel zitten.  
 
