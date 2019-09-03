@@ -2,7 +2,7 @@
 title: Links
 menu:
   main:
-    weight: 400
+    weight: 1500
 ---
 * [Qing-Bai Academie voor Chinese Geneeswijzen](http://qingbai.nl/)
 * [Shiatsu Therapie Opleiding](http://shiatsumassage.nl/beroepsopleiding)
