@@ -2,7 +2,7 @@
 title: DO-IN
 menu:
   main:
-    weight: 400
+    weight: 900
 ---
 Ook wel genoemd Chinese Yoga en 5-elementen Yoga.
 
