@@ -2,7 +2,7 @@
 title: GezichtsYoga
 menu:
   main:
-    weight: 400
+    weight: 700
 ---
 Ja dat is gekke bekken trekken.  
 
