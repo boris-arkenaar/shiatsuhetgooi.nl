@@ -2,7 +2,7 @@
 title: Contact
 menu:
   main:
-    weight: 400
+    weight: 1100
 ---
 [![PIIT](/uploads/piith-logo_medium.png#right)](http://piith.nl)
 
