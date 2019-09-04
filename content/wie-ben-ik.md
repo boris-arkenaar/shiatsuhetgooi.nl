@@ -49,7 +49,7 @@ Na ruim drie jaar een praktijk in Naarden te hebben gehad, ben ik sinds begin 20
 \
 **Bijscholingen, workshops en seminars:**
 
-2018\/19\
+2018 / 19\
 Kwaliteitenopstellingen Beeldkracht\
 Caroline Franssen, Culemborg
 
