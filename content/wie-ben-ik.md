@@ -1,5 +1,6 @@
 ---
 title: Wie ben ik
+devider: true
 menu:
   main:
     weight: 1400
@@ -48,7 +49,7 @@ Na ruim drie jaar een praktijk in Naarden te hebben gehad, ben ik sinds begin 20
 \
 **Bijscholingen, workshops en seminars:**
 
-2018/19\
+2018\/19\
 Kwaliteitenopstellingen Beeldkracht\
 Caroline Franssen, Culemborg
 
@@ -58,7 +59,7 @@ Margot van de Plas, Den Bosch 
 
 2016\
 Handanalyse derdejaars\
-Ellen Duim, Amsterdam\*\* \*\*
+Ellen Duim, Amsterdam
 
 2015\
 Shiatsu bij Stress en Trauma\
