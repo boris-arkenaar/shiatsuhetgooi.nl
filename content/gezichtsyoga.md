@@ -34,14 +34,14 @@ Inloop vanaf een kwartier voor aanvang lessen.
 
 Geef je op bij Luna, 06-29141718 of \[info@piith.nl](mailto:info@piith.nl).
 
-\*Een les duurt anderhalf uur inclusief kopje thee en kost €15, 10-rittenkaart €110, proefles gratis.\*  
+_Een les duurt anderhalf uur inclusief kopje thee en kost €15, 10-rittenkaart €110, proefles gratis._ 
 
-\*Privéles is mogelijk voor €65, 3-rittenkaart €165.\*  
+_Privéles is mogelijk voor €65, 3-rittenkaart €165._  
 
-\*De rittenkaart is in principe persoonsgebonden en 1 jaar houdbaar, ook inzetbaar bij de andere behandelingen en privélessen, restitutie van niet gebruikte ritten is niet mogelijk.\*
+_De rittenkaart is in principe persoonsgebonden en 1 jaar houdbaar, ook inzetbaar bij de andere behandelingen en privélessen, restitutie van niet gebruikte ritten is niet mogelijk._
 
-\*Ook is er de cursus van 5 dagdelen voor €400 pp, waarbij een dagdeel dan zo’n 2 tot 2,5 uur duurt.\*  
+_Ook is er de cursus van 5 dagdelen voor €400 pp, waarbij een dagdeel dan zo’n 2 tot 2,5 uur duurt._  
 
-\*Neem je je moeder, vriendin, broer of buurman mee, dan krijg je €50 pp korting.\*  
+_Neem je je moeder, vriendin, broer of buurman mee, dan krijg je €50 pp korting._  
 
-\*We verdelen die dagdelen in overleg over ongeveer een maand en je krijgt een mooie hand-out en nog wat andere extraatjes, zodat je er uiteindelijk geheel zelfstandig mee aan de slag kunt.\*
+_We verdelen die dagdelen in overleg over ongeveer een maand en je krijgt een mooie hand-out en nog wat andere extraatjes, zodat je er uiteindelijk geheel zelfstandig mee aan de slag kunt._
