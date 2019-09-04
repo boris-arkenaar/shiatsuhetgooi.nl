@@ -4,8 +4,10 @@ menu:
   main:
     weight: 800
 ---
-![Bij Piith is ook uw uitstraling in goede handen………](http://piith.nl/wp-content/uploads/2013/04/480026_359882404123036_489748388_n-225x300.jpg#right)  
-Bij Shiatsu het Gooi is ook uw uitstraling in goede handen………#right
+![Bij Piith is ook uw uitstraling in goede handen………](/uploads/japanse-gezichtsmassage.jpg#right)
+
+<div style="float: right;>Bij Shiatsu het Gooi is ook uw uitstraling in goede handen………
+</div>
 
 Shiatsu voor het gezicht.
 
@@ -13,9 +15,9 @@ Japanse gezichtsmassage met een flinke vleug Luna.
 
 Zoals de oude meesters van de Chinese Geneeskunde zeggen:  "Uiterlijke schoonheid is gebaseerd op innerlijk evenwicht".
 
-Een mens straalt naar buiten uit die hij van binnen is.  
- Maar dat werkt andersom ook.  
- Het effect van Shiatsutherapie voor het gezicht - wat Japanse Gezichtsmassage in feite is - reikt aanzienlijk verder dan enkel een uiterlijke verandering. We zien niet alleen een verjonging van de gezichtshuid, maar ook een verbetering van het algemene gevoel van welbevinden, omdat de meridianen in het gezicht corresponderen met de meridianen in het hele lichaam.  
+Een mens straalt naar buiten uit die hij van binnen is.\
+ Maar dat werkt andersom ook.\
+ Het effect van Shiatsutherapie voor het gezicht - wat Japanse Gezichtsmassage in feite is - reikt aanzienlijk verder dan enkel een uiterlijke verandering. We zien niet alleen een verjonging van de gezichtshuid, maar ook een verbetering van het algemene gevoel van welbevinden, omdat de meridianen in het gezicht corresponderen met de meridianen in het hele lichaam.\
  Je gaat lekkerder in je vel zitten!
 
 Een Japanse Gezichtsmassage is uniek.\
