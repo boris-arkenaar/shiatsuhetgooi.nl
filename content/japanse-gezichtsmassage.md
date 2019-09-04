@@ -4,6 +4,7 @@ menu:
   main:
     weight: 800
 ---
+![](/uploads/japanse-gezichtsmassage.jpg#right)
 
 Shiatsu voor het gezicht.
 
