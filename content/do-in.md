@@ -23,6 +23,8 @@ En dat is mooi want door regelmatig Do-in te doen, geef je jezelf ruimte, blijf 
 
 ![aarde](/uploads/do-in-aarde.jpg#right)
 
+\
+\
 Do-in is een fijne manier om lichaam en geest in balans te brengen en te houden, om je sterk en veerkrachtig te maken en om je bewust te worden van je grenzen.
 
 Do-in is leuk en prettig om te doen, rustig en makkelijk en geschikt voor iedereen, man en vrouw en elke leeftijd, omdat het gaat om jouw grenzen en niet om die van de buurman.
