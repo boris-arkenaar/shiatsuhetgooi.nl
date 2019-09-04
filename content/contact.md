@@ -1,5 +1,6 @@
 ---
 title: Contact
+devider: true
 menu:
   main:
     weight: 1100
