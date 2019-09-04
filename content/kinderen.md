@@ -16,10 +16,10 @@ Er wordt vaak gelachen en er gebeurt nooit iets wat het kind niet wil.
 
 <div>Soms wordt moeder (mee)behandeld. </div>
 
-<div>  
+<div>  </div>
 
 <span>Een behandeling voor een kind duurt een half uur tot drie kwartier en kost €60, 3-rittenkaart €150. </span>  
-<span>Zie verder de prijslijst bij het hoofdstuk kosten. </span> </div>
+Zie verder de prijslijst bij het hoofdstuk kosten.  
 
 <div> </div>
 
