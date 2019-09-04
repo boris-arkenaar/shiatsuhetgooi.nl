@@ -32,7 +32,7 @@ Elke zaterdag om 11 uur.
 
 Inloop vanaf een kwartier voor aanvang lessen.  
 
-Geef je op bij Luna, 06-29141718 of \[info@piith.nl](mailto:info@piith.nl).
+Geef je op bij Luna, 06-29141718 of [info@piith.nl](mailto:info@piith.nl).
 
 _Een les duurt anderhalf uur inclusief kopje thee en kost €15, 10-rittenkaart €110, proefles gratis._ 
 
