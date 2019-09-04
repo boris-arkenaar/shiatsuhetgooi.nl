@@ -11,8 +11,11 @@ Ook wel genoemd Chinese Yoga en 5-elementen Yoga.
 Do-in betekent de weg naar binnen, hoort bij Shiatsu, is een Oosterse bewegingsleer, een zusje of eigenlijk de voorloper van yoga en bestaat uit meridiaanstrekkingen, opwarm- en ademhalingsoefeningen en doe-het-zelf-shiatsu.\
 Shiatsu doe je bij een ander, Do-in doe je bij jezelf.\
 Door de afwisseling van dynamiek en een meditatieve vorm van bewegen en rust wordt een soepele activering van mentale en fysieke energie bewerkstelligd.\
-Spelenderwijs geef ik tijdens de lessen veel informatie over de vijf elementen, waaraan de meridianen ten grondslag liggen.   
 
+Spelenderwijs geef ik tijdens de lessen veel informatie over de vijf elementen, waaraan de meridianen ten grondslag liggen.
+
+\
+\
 ![hout](/uploads/do-in-hout.jpg#left)
 
 In groepspraktijk Piith geef ik drie keer per week Do-in lessen zodat je de kans krijgt meer over dit alles te leren en te doen en het in te passen in je dagelijkse ritme.
