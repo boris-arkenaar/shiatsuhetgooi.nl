@@ -18,7 +18,6 @@ Spelenderwijs geef ik tijdens de lessen veel informatie over de vijf elementen, 
 In groepspraktijk Piith geef ik drie keer per week Do-in lessen zodat je de kans krijgt meer over dit alles te leren en te doen en het in te passen in je dagelijkse ritme.
 
 ![aarde](/uploads/do-in-aarde.jpg#right)
-
 En dat is mooi want door regelmatig Do-in te doen, geef je jezelf ruimte, blijf je fit en voorkom je klachten. 
 
 Do-in is een fijne manier om lichaam en geest in balans te brengen en te houden, om je sterk en veerkrachtig te maken en om je bewust te worden van je grenzen.
