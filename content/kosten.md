@@ -55,20 +55,6 @@ Bij huisbezoek in de regio reken ik € 10 extra, daarbuiten naar ratio.</span><
 </tbody>
 </table>
 
-| m.i.v. 2019             | per keer | 3-rittenkaart |
-| ---                     | ---      | ---           |
-|                         |          |               |
-| Shiatsutherapie Basic   | € 65     | € 165         |
-| Shiatsutherapie Vip     | € 90     | € 240         |
-| Shiatsu Kind            | € 60     | € 150         |
-| Japanse Gezichtsmassage | € 65     | € 165         |
-|                         |          |               |
-| Do-in lessen            | € 15     | 10x = € 110   |
-| Gezichtsyoga lessen     | € 15     | 10x = € 110   |
-
-<span style="color: #888888; font-size: smaller;">Prijzen zijn inclusief 21% BTW.\
-Bij huisbezoek in de regio reken ik € 10 extra, daarbuiten naar ratio.</span>
-
 _Wil je een behandeling in de avonduren dan kost dat €10 extra.  
 De rittenkaart is in principe persoonsgebonden en 1 jaar houdbaar, ook inzetbaar bij de andere behandelingen en (privé)lessen, restitutie van niet gebruikte ritten is niet mogelijk._
 
