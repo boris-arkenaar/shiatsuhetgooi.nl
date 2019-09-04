@@ -43,7 +43,6 @@ http://piith.nl/wie-doet-wat/luna-westerik/
 \
 \
 \
-\
 Na ruim drie jaar een praktijk in Naarden te hebben gehad, ben ik sinds begin 2013 oprichter, eigenaar en manager van de holistische groepspraktijk Piith voor complementaire geneeskunde en behandelwijzen, lessen en workshops.
 
 **Bijscholingen, workshops en seminars:**
