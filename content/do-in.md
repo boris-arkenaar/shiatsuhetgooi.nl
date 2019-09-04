@@ -14,7 +14,6 @@ Door de afwisseling van dynamiek en een meditatieve vorm van bewegen en rust wor
 
 Spelenderwijs geef ik tijdens de lessen veel informatie over de vijf elementen, waaraan de meridianen ten grondslag liggen.
 
-
 \
 ![hout](/uploads/do-in-hout.jpg#left)
 
@@ -22,7 +21,7 @@ In groepspraktijk Piith geef ik drie keer per week Do-in lessen zodat je de kans
 
 ![aarde](/uploads/do-in-aarde.jpg#right)
 En dat is mooi want door regelmatig Do-in te doen, geef je jezelf ruimte, blijf je fit en voorkom je klachten. 
-\
+
 \
 Do-in is een fijne manier om lichaam en geest in balans te brengen en te houden, om je sterk en veerkrachtig te maken en om je bewust te worden van je grenzen.
 
@@ -36,15 +35,12 @@ De lessen zijn in kleine groepen van maximaal acht personen.
 
 Trek makkelijke kleren aan en neem een grote handdoek mee.  
 
-Geef je op via 06-29141718 of info@shiatsuhetgooi.nl.
-
+Geef je op via [06-29141718](tel:06-29141718) of [info@shiatsuhetgooi.nl](mailto:info@shiatsuhetgooi.nl).
 
 \
 Elke vrijdag- en zaterdagochtend om 9 uur.\
- Inloop vanaf een kwartier voor aanvang.  
+Inloop vanaf een kwartier voor aanvang.  
 
-\
-\
 \
 _Een les duurt anderhalf uur inclusief kopje thee en kost €15, een 10-rittenkaart €110 en de eerste les is gratis._\
 _Privéles is ook mogelijk, die kost €65, een 3-rittenkaart €165._\
