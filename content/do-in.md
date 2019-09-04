@@ -38,6 +38,10 @@ Geef je op via 06-29141718 of info@shiatsuhetgooi.nl.
 Elke vrijdag- en zaterdagochtend om 9 uur.\
  Inloop vanaf een kwartier voor aanvang.  
 
+
+\
+\
+\
 _Een les duurt anderhalf uur inclusief kopje thee en kost €15, een 10-rittenkaart €110 en de eerste les is gratis._\
 _Privéles is ook mogelijk, die kost €65, een 3-rittenkaart €165._\
 _De rittenkaart is in principe persoonsgebonden en 1 jaar houdbaar, ook inzetbaar bij de andere behandelingen en privélessen, restitutie van niet gebruikte ritten is niet mogelijk._
