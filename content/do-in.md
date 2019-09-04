@@ -26,7 +26,7 @@ Do-in is een fijne manier om lichaam en geest in balans te brengen en te houden,
 Do-in is leuk en prettig om te doen, rustig en makkelijk en geschikt voor iedereen, man en vrouw en elke leeftijd, omdat het gaat om jouw grenzen en niet om die van de buurman.
 
 ![water](/uploads/do-in-water.jpg#left)
-\
+
 De lessen zijn in kleine groepen van maximaal acht personen.
 
 ![metal](/uploads/do-in-metaal.jpg#right)
@@ -34,10 +34,11 @@ De lessen zijn in kleine groepen van maximaal acht personen.
 Trek makkelijke kleren aan en neem een grote handdoek mee.  
 
 Geef je op via 06-29141718 of info@shiatsuhetgooi.nl.
+
+
 \
 Elke vrijdag- en zaterdagochtend om 9 uur.\
  Inloop vanaf een kwartier voor aanvang.  
-
 
 \
 \
