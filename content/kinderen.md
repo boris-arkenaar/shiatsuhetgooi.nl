@@ -12,7 +12,7 @@ Kinderen hebben een heel andere benadering en aanpak nodig dan volwassenen, hun 
 De methode is speelser, het kind wordt actief betrokken bij de behandeling.  
 Er wordt vaak gelachen en er gebeurt nooit iets wat het kind niet wil.
 
-<div> </div>
+
 
 <div>Soms wordt moeder (mee)behandeld. </div>
 
