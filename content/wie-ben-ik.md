@@ -7,7 +7,10 @@ menu:
 ![Luna Westerik](/uploads/mg_7735_klein.jpg#right)
 Mijn naam is Luna Westerik, woonachtig en werkzaam te Bussum.\
 Geboren op de dag van de winterzonnewende.\
-Moeder van een handvol kinderen uit 1981 tot 1993 die ik vanaf de geboorte van de jongste alle vijf alleen heb grootgebracht met tomeloze energie, humor en vooral loslaten.\
+Moeder van een handvol kinderen uit 1981 tot 1993 die ik \
+vanaf de geboorte van de jongste alle vijf alleen heb \
+ grootgebracht met tomeloze energie, humor en vooral\
+ loslaten.\
 Inmiddels oma van drie hummels.\
 In het verleden ben ik, na een opleiding aan de Pedagogische Academie en studie Creatieve Therapie, oa werkzaam geweest als creatief therapeut in (psychiatrische) ziekenhuizen en revalidatiecentra, ik was redactiemedewerker bij een computervakblad, nachtzuster in een verpleeghuis en (terminaal) ouderenhulpverlener, ondertussen 5 jaar Spaans studerend.
 
