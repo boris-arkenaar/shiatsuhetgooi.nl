@@ -8,9 +8,9 @@ Ook kinderen - of juist kinderen - hebben periodes dat ze wat minder goed in hun
 Stressmomenten vanwege een nieuwe klas, een nieuwe school, mogen ze wel meedoen met vriendjes, horen ze erbij.  \
 Het kan zijn dat het thuis door allerlei omstandigheden even niet zo lekker loopt en dat het kind dan wat exra aandacht nodig heeft. 
 
-<div>Kinderen hebben een heel andere benadering en aanpak nodig dan volwassenen, hun spanningsboog is korter, de effecten gebeuren sneller, de behandeling duurt daarom ook minder lang.   \
-De methode is speelser, het kind wordt actief betrokken bij de behandeling.  \
-Er wordt vaak gelachen en er gebeurt nooit iets wat het kind niet wil.</div>
+Kinderen hebben een heel andere benadering en aanpak nodig dan volwassenen, hun spanningsboog is korter, de effecten gebeuren sneller, de behandeling duurt daarom ook minder lang.   
+De methode is speelser, het kind wordt actief betrokken bij de behandeling.  
+Er wordt vaak gelachen en er gebeurt nooit iets wat het kind niet wil.
 
 <div> </div>
 
