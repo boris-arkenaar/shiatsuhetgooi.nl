@@ -13,8 +13,8 @@ De methode is speelser, het kind wordt actief betrokken bij de behandeling.
 Er wordt vaak gelachen en er gebeurt nooit iets wat het kind niet wil.
 
 
-
-<div>Soms wordt moeder (mee)behandeld. </div>
+<div>  </div>
+Soms wordt moeder (mee)behandeld. 
 
 <div>  </div>
 
