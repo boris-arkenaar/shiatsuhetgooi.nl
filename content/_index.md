@@ -8,7 +8,7 @@ menu:
 <div style="float: right; width: 300px; text-align: center;"><a href="http://piith.nl"><img src="http://piith.nl/wp-content/uploads/2015/08/Piith-Logo_medium.png" alt="Piith" width="300" height="150"></a>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<p><span>&nbsp;</span><a href="/contact">contact met mij opnemen</a><span>&nbsp;<br>per telefoon, sms, whatsapp <br>of via e-mail.</span></p>
+<p><a href="/contact">contact met mij opnemen</a><br>per telefoon, sms, whatsapp <br>of via e-mail.</p>
 <p>&nbsp;</p>
 </div>
 
@@ -28,9 +28,9 @@ Met Shiatsu weer lekker in je vel!
 Shiatsu is goed voor iedereen, ook ter ontspanning en als opfris- of onderhoudsbeurt, even bijtanken, gewoon heerlijk om jezelf te gunnen.
 
 \
-Shiatsutherapie is gebaseerd op de Chinese Geneeskunde en veel meer dan louter een drukpuntmassage. Ook rotaties, stretches, rockingen en ademhalingstechnieken worden toegepast./
-In mijn praktijk in ‘t Gooi behandel ik mensen met een breed scala aan zowel fysieke, mentale als emotionele klachten./
-Anders dan een "gewone" massage werkt shiatsu diep in op het energieniveau, waardoor de uitwerking dan ook heel anders is./
+Shiatsutherapie is gebaseerd op de Chinese Geneeskunde en veel meer dan louter een drukpuntmassage. Ook rotaties, stretches, rockingen en ademhalingstechnieken worden toegepast.\
+In mijn praktijk in ‘t Gooi behandel ik mensen met een breed scala aan zowel fysieke, mentale als emotionele klachten.\
+Anders dan een "gewone" massage werkt shiatsu diep in op het energieniveau, waardoor de uitwerking dan ook heel anders is.
 
 Zweverig? Welnee. De waan van de dag, dát is zweverig.\
 Het fysieke lichaam is de grote vertaalmachine van alle mentale, emotionele, spirituele en sociale processen, en kan dan soms een beetje in de weg zitten.\
