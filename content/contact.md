@@ -9,11 +9,12 @@ menu:
 
 ### Adres
 
-<span>Groepspraktijk Piith\
-</span>Laarderweg 65, hoekje Bijlstraat\
+Groepspraktijk Piith\
+Laarderweg 65, hoekje Bijlstraat\
 1402 BD Bussum
 
-<mailto:info@shiatsuhetgooi.nl><br>telefoon: 06-29141718
+[info@shiatsuhetgooi.nl](mailto:info@shiatsuhetgooi.nl)\
+telefoon: [06-29141718](tel:06-29141718)
 
 <iframe src="https://maps.google.nl/maps?q=shiatsu+het+gooi&hl=nl&safe=off&hq=shiatsu+het+gooi&t=m&ie=UTF8&hnear=Hilversum,+Noord-Holland&ll=52.269206,5.16732&spn=0.011017,0.027874&z=14&iwloc=A&cid=9513034587894719947&output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="502" height="350"></iframe>  
 <small>[Grotere kaart weergeven](https://maps.google.nl/maps?q=shiatsu+het+gooi&hl=nl&safe=off&hq=shiatsu+het+gooi&t=m&ie=UTF8&hnear=Hilversum,+Noord-Holland&ll=52.269206,5.16732&spn=0.011017,0.027874&z=14&iwloc=A&cid=9513034587894719947&source=embed)</small>
@@ -37,4 +38,4 @@ KvK  32159905\
 BTW  87086943B01\
 AGB-code Zorgverlener 90-040337\
 AGB-code Praktijk 9018767\
-<span>Rekeningnummer: NL64 RABO 0155 68 4388 tnv LA Westerik.</span>
+Rekeningnummer: NL64 RABO 0155 68 4388 tnv LA Westerik.
