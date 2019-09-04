@@ -104,8 +104,7 @@ Hilde Verhulst, Qing-Bai, Amersfoort
 
 Shiatsu in zitpositie\
 Maartje Huibers, Qing-bai, Amersfoort 
-\
-\
+
 \
 \
 Wat mij vooral boeit in de Shiatsu is dat je met zulke eenvoudige hulpmiddelen, namelijk je eigen handen, zo’n geweldig potentieel bij de medemens kunt aanspreken en activeren in een als vanzelfsprekende respect- en liefdevolle benadering.
