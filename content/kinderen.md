@@ -18,7 +18,7 @@ Er wordt vaak gelachen en er gebeurt nooit iets wat het kind niet wil.
 
 <div>  
 
-<span>Een behandeling voor een kind duurt een half uur tot drie kwartier en kost €60, 3-rittenkaart €150. </span>  \
+<span>Een behandeling voor een kind duurt een half uur tot drie kwartier en kost €60, 3-rittenkaart €150. </span>  
 <span>Zie verder de prijslijst bij het hoofdstuk kosten. </span> </div>
 
 <div> </div>
