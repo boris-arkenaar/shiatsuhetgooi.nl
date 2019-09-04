@@ -40,7 +40,10 @@ Kijk voor meer info over Oerloop, Kracht, Zielenkaarten en Handanalyse bij: \
 http://piith.nl/wie-doet-wat/luna-westerik/
 
 [![Piith](http://piith.nl/wp-content/uploads/2013/08/Piith-Logo-klein-wit-r.jpg#right)](http://piith.nl)
-
+\
+\
+\
+\
 Na ruim drie jaar een praktijk in Naarden te hebben gehad, ben ik sinds begin 2013 oprichter, eigenaar en manager van de holistische groepspraktijk Piith voor complementaire geneeskunde en behandelwijzen, lessen en workshops.
 
 **Bijscholingen, workshops en seminars:**
