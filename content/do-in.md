@@ -14,7 +14,7 @@ Door de afwisseling van dynamiek en een meditatieve vorm van bewegen en rust wor
 
 Spelenderwijs geef ik tijdens de lessen veel informatie over de vijf elementen, waaraan de meridianen ten grondslag liggen.
 
-\
+
 \
 ![hout](/uploads/do-in-hout.jpg#left)
 
