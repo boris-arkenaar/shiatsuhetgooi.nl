@@ -18,9 +18,9 @@ Spelenderwijs geef ik tijdens de lessen veel informatie over de vijf elementen, 
 \
 ![hout](/uploads/do-in-hout.jpg#left)
 
-In groepspraktijk Piith geef ik drie keer per week Do-in lessen zodat je de kans krijgt meer over dit alles te leren en te doen en het in te passen in je dagelijkse ritme. \
+In groepspraktijk Piith geef ik drie keer per week Do-in lessen zodat je de kans krijgt meer over dit alles te leren en te doen en het in te passen in je dagelijkse ritme.
+
 ![aarde](/uploads/do-in-aarde.jpg#right)
-\
 En dat is mooi want door regelmatig Do-in te doen, geef je jezelf ruimte, blijf je fit en voorkom je klachten. 
 \
 \
