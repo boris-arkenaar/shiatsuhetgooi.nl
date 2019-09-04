@@ -4,7 +4,7 @@ menu:
   main:
     weight: 800
 ---
-![](/uploads/japanse-gezichtsmassage.jpg#right)<span style="float:right"><br><small>Bij Shiatsu het Gooi is ook uw  <br>uitstraling in goede handen… </small></span>
+![](/uploads/japanse-gezichtsmassage.jpg#right)<div style="float:right"><br><small>Bij Shiatsu het Gooi is ook uw  <br>uitstraling in goede handen… </small></div>
 
 Shiatsu voor het gezicht.
 
