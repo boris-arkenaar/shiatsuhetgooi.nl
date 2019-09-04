@@ -4,8 +4,8 @@ menu:
   main:
     weight: 800
 ---
-![Bij Piith is ook uw uitstraling in goede handen………](http://piith.nl/wp-content/uploads/2013/04/480026_359882404123036_489748388_n-225x300.jpg)  
-Bij Shiatsu het Gooi is ook uw uitstraling in goede handen………
+![Bij Piith is ook uw uitstraling in goede handen………](http://piith.nl/wp-content/uploads/2013/04/480026_359882404123036_489748388_n-225x300.jpg#right)  
+Bij Shiatsu het Gooi is ook uw uitstraling in goede handen………#right
 
 Shiatsu voor het gezicht.
 
