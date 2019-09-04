@@ -103,7 +103,10 @@ Hilde Verhulst, Qing-Bai, Amersfoort
 
 Shiatsu in zitpositie\
 Maartje Huibers, Qing-bai, Amersfoort 
-
+\
+\
+\
+\
 Wat mij vooral boeit in de Shiatsu is dat je met zulke eenvoudige hulpmiddelen, namelijk je eigen handen, zo’n geweldig potentieel bij de medemens kunt aanspreken en activeren in een als vanzelfsprekende respect- en liefdevolle benadering.
 
 Bij ons in het Westen wordt helaas nog te vaak negatief tegen Oosterse geneeswijzen aangekeken. En dan is er een alternatief circuit dat alléén maar alternatief wil zijn en alle reguliere geneeskunde afwijst. Zelf ben ik een groot voorstander van een combinatie van beide geneeswijzen, Westers en Oosters geïntegreerd dus.
