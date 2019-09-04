@@ -4,10 +4,6 @@ menu:
   main:
     weight: 800
 ---
-![Bij Piith is ook uw uitstraling in goede handen………](/uploads/japanse-gezichtsmassage.jpg#right)
-
-<div style="float: right;>Bij Shiatsu het Gooi is ook uw uitstraling in goede handen………
-</div>
 
 Shiatsu voor het gezicht.
 
