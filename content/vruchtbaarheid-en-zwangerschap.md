@@ -14,5 +14,5 @@ De behandeling is aangepast aan de toenemende omvang van de buik.  \
 De eerste drie maanden van de zwangerschap wordt aangeraden om geen shiatsu te ondergaan. Het kán wel, ik pas altijd een behandeling aan aan de omstandigheden, als ik het maar weet. Maar voel je je veiliger het niet te doen, doe het dan niet.  \
 Dus ben je zwanger, ook al is het nog maar net, vertel het altijd! 
 
-Shiatsu voor zwangeren duurt een uur, kost €60, 10-rittenkaart €550.  \
-<span>Zie verder de prijslijst bij het hoofdstuk kosten. </span>
+De kosten zijn €65 voor 1 behandeling, 3-rittenkaart €165.\
+Zie verder de prijslijst bij het hoofdstuk kosten.
