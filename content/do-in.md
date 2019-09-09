@@ -38,7 +38,7 @@ Trek makkelijke kleren aan en neem een grote handdoek mee.
 Geef je op via [06-29141718](tel:06-29141718) of <mailto:info@shiatsuhetgooi.nl>.
 
 \
-Elke vrijdag- en zaterdagochtend om 9 uur.\
+Elke vrijdagochtend om 9 uur.\
 Inloop vanaf een kwartier voor aanvang.  
 
 \
