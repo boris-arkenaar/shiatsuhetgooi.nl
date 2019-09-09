@@ -41,12 +41,12 @@ menu:
 <tr>
 <td>Do-in lessen</td>
 <td align="right">€ 15</td>
-<td align="right">10x = € 110</td>
+<td align="right">10x = € 120</td>
 </tr>
 <tr>
-<td>Gezichtsyoga lessen</td>
+<td>GezichtsYoga lessen</td>
 <td align="right">€ 15</td>
-<td align="right">10x = € 110</td>
+<td align="right">10x = € 120</td>
 </tr>
 <tr>
 <td colspan="3" align="right"><span style="color: #888888; font-size: smaller;">Prijzen zijn inclusief 21% BTW.  <br>
@@ -55,8 +55,8 @@ Bij huisbezoek in de regio reken ik € 10 extra, daarbuiten naar ratio.</span><
 </tbody>
 </table>
 
-_Wil je een behandeling in de avonduren dan kost dat €10 extra.  
-De rittenkaart is in principe persoonsgebonden en 1 jaar houdbaar, ook inzetbaar bij de andere behandelingen en (privé)lessen, restitutie van niet gebruikte ritten is niet mogelijk._
+_Wil je een behandeling in de avonduren dan kost dat €10 extra._\
+_De rittenkaart is in principe persoonsgebonden en 1 jaar houdbaar, ook inzetbaar bij de andere behandelingen en (privé)lessen, restitutie van niet gebruikte ritten is niet mogelijk._
 
 \
 Vanaf 2017 ben ik niet meer aangesloten bij een beroepsvereniging, en dus ook niet bij de zorgverzekeraars, omdat ik niet beperkt wil worden door de steeds stringentere eisen, maar liever onafhankelijk ben en vrij in de uitoefening van mijn beroep.\
