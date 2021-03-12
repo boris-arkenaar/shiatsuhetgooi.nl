@@ -5,8 +5,6 @@ menu:
   main:
     weight: 1100
 ---
-![]()
-
 ### Adres
 
 Groepspraktijk Piith\
