@@ -17,7 +17,7 @@ Laarderweg 65, hoekje Bijlstraat\
 telefoon: [06-29141718](tel:06-29141718)
 
 Te bereiken via:  
-[![WhatsApp Logo](/uploads/whatsapp.png "WhatsApp")](https://wa.me/31629141718) ![Signal Logo](/uploads/signal.png "Signal") ![Telegram Logo](/uploads/telegram.png "Telegram")
+[![WhatsApp Logo](/uploads/whatsapp.png "WhatsApp")](https://wa.me/31629141718) ![Signal Logo](/uploads/signal.png "Signal") [![Telegram Logo](/uploads/telegram.png "Telegram")](https://t.me/LunaWesterik)
 
 <iframe src="https://maps.google.nl/maps?q=shiatsu+het+gooi&hl=nl&safe=off&hq=shiatsu+het+gooi&t=m&ie=UTF8&hnear=Hilversum,+Noord-Holland&ll=52.269206,5.16732&spn=0.011017,0.027874&z=14&iwloc=A&cid=9513034587894719947&output=embed" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" width="502" height="350"></iframe>  
 <small>[Grotere kaart weergeven](https://maps.google.nl/maps?q=shiatsu+het+gooi&hl=nl&safe=off&hq=shiatsu+het+gooi&t=m&ie=UTF8&hnear=Hilversum,+Noord-Holland&ll=52.269206,5.16732&spn=0.011017,0.027874&z=14&iwloc=A&cid=9513034587894719947&source=embed)</small>
