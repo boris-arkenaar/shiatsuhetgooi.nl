@@ -37,7 +37,7 @@ Hoewel één behandeling al heilzaam kan zijn, wordt aanbevolen een tiental beha
  Daarna kan een onderhoudsbehandeling van elke maand of eens per kwartaal of half jaar gedaan worden.\
 Ook fijn is een gezichtsmassage de dag voor een belangrijke gebeurtenis. 
 
-<span>_Een behandeling van een uur kost €65._\
-_Een 3-rittenkaart is €165._\
-_Wil je een behandeling in de avonduren dan kost dat €10 extra._\
-_De rittenkaart is in principe persoonsgebonden en 1 jaar houdbaar, ook inzetbaar bij de andere behandelingen en privélessen, restitutie van niet gebruikte ritten is niet mogelijk._</span>
+*Een behandeling van een uur kost €75.*\
+*Een 3-rittenkaart is €195.*\
+*Wil je een behandeling in de avonduren dan kost dat €10 extra.*\
+*De rittenkaart is in principe persoonsgebonden en 1 jaar houdbaar, ook inzetbaar bij de andere behandelingen en privélessen, restitutie van niet gebruikte ritten is niet mogelijk.*
