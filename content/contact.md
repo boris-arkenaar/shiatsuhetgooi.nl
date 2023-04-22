@@ -5,7 +5,8 @@ menu:
   main:
     weight: 1100
 ---
-[![PIIT](/uploads/piith-logo_medium.png#right)](http://piith.nl)
+
+[![PIITH](/uploads/piith-logo_medium.png#right)](https://piith.nl)
 
 ### Adres
 

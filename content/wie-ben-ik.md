@@ -5,6 +5,7 @@ menu:
   main:
     weight: 1400
 ---
+
 ![Luna Westerik](/uploads/mg_7735_klein.jpg#right)
 Mijn naam is Luna Westerik, woonachtig en werkzaam te Bussum.\
 Geboren op de dag van de winterzonnewende.\
@@ -38,9 +39,9 @@ In 2017 introduceer ik **GezichtsYoga**.
 En in 2018 **Kracht**.
 
 Kijk voor meer info over Oerloop, Kracht, Zielenkaarten en Handanalyse bij: \
-http://piith.nl/wie-doet-wat/luna-westerik/
+https://piith.nl/wie-doet-wat/luna-westerik/
 
-[![Piith](http://piith.nl/wp-content/uploads/2013/08/Piith-Logo-klein-wit-r.jpg#right)](http://piith.nl)
+[![Piith](https://res.cloudinary.com/piith/image/upload/2013/08/Piith-Logo-klein-wit-r.jpg#right)](https://piith.nl)
 \
 \
 Na ruim drie jaar een praktijk in Naarden te hebben gehad, ben ik sinds begin 2013 oprichter, eigenaar en manager van de holistische groepspraktijk Piith voor complementaire geneeskunde en behandelwijzen, lessen en workshops.
@@ -55,7 +56,7 @@ Caroline Franssen, Culemborg
 
 2017\
 Gelaatkunde en karakterkunde\
-Margot van de Plas, Den Bosch 
+Margot van de Plas, Den Bosch
 
 2016\
 Handanalyse derdejaars\
@@ -77,33 +78,33 @@ Yvonne van Stigt, Houten
 
 2013\
 Oergezond behandelaar A-licentie \
-Yvonne van Stigt, Houten 
+Yvonne van Stigt, Houten
 
 2012\
 Shiatsu voor Kinderen\
-Britta Ossenbrüggen, Shiatsu zum Leben, Hamburg 
+Britta Ossenbrüggen, Shiatsu zum Leben, Hamburg
 
 2011\
 Schmerzkörper (Painbody) Transformation im Shiatsu\
 Britta Ossenbrüggen, Shiatsu zum Leben, Hamburg
 
-* Pregnancy & delivery
-* Ohashi's professional bodywork
-* Depression and other mental disorders 
-* Structural back problems
-* Muscle-meridian sedation
+- Pregnancy & delivery
+- Ohashi's professional bodywork
+- Depression and other mental disorders
+- Structural back problems
+- Muscle-meridian sedation
 
 Wataru Ohashi, Ohashiatsu, Amsterdam
 
 Polsdiagnostiek\
-Joyce Vlaarkamp, Zen Shiatsu, Amsterdam 
+Joyce Vlaarkamp, Zen Shiatsu, Amsterdam
 
 2010\
 Ancestrale energie en de wondermeridianen\
 Hilde Verhulst, Qing-Bai, Amersfoort
 
 Shiatsu in zitpositie\
-Maartje Huibers, Qing-bai, Amersfoort 
+Maartje Huibers, Qing-bai, Amersfoort
 
 \
 \
