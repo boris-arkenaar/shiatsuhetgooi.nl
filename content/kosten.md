@@ -7,7 +7,7 @@ menu:
 <table cellpadding="3">
 <thead>
 <tr>
-<td>m.i.v. 2019</td>
+<td></td>
 <td>per keer</td>
 <td>3-rittenkaart</td>
 </tr>
@@ -15,8 +15,8 @@ menu:
 <tbody>
 <tr>
 <td>Shiatsutherapie Basic</td>
-<td align="right">€ 65</td>
-<td align="right">€ 165</td>
+<td align="right">€ 75</td>
+<td align="right">€ 195</td>
 </tr>
 <tr>
 <td>Shiatsutherapie Vip</td>
@@ -30,8 +30,8 @@ menu:
 </tr>
 <tr>
 <td>Japanse Gezichtsmassage</td>
-<td align="right">€ 65</td>
-<td align="right">€ 165</td>
+<td align="right">€ 75</td>
+<td align="right">€ 195</td>
 </tr>
 <tr>
 <td> </td>
