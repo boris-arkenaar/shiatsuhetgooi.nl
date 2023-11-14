@@ -60,7 +60,7 @@ _De rittenkaart is in principe persoonsgebonden en 1 jaar houdbaar, ook inzetbaa
 
 \
 Vanaf 2017 ben ik niet meer aangesloten bij een beroepsvereniging, en dus ook niet bij de zorgverzekeraars, omdat ik niet beperkt wil worden door de steeds stringentere eisen, maar liever onafhankelijk ben en vrij in de uitoefening van mijn beroep.\
-Vanwege mijn sterk verlaagde tarieven die hierdoor mogelijk geworden zijn, krijg je van mij de vergoeding die je anders van je zorgverzekering uit de aanvullende verzekering zou krijgen, want een Basic behandeling had eigenlijk €95 moeten zijn, maar is via de 3-rittenkaart slechts €55.\
+Vanwege mijn sterk verlaagde tarieven die hierdoor mogelijk geworden zijn, krijg je van mij de vergoeding die je anders van je zorgverzekering uit de aanvullende verzekering zou krijgen, want een Basic behandeling had eigenlijk meer dan €100 moeten zijn, maar is via de 3-rittenkaart slechts €65.\
 En je bent nóg goedkoper uit en bovendien vrij in je keuze als je je niet aanvullend verzekert.
 
 Rekeningnummer: NL64RABO 0155684388 tnv LA Westerik.
