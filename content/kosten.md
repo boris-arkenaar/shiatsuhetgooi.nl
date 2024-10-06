@@ -4,6 +4,7 @@ menu:
   main:
     weight: 1200
 ---
+
 <table cellpadding="3">
 <thead>
 <tr>
@@ -15,13 +16,13 @@ menu:
 <tbody>
 <tr>
 <td>Shiatsutherapie Basic</td>
-<td align="right">€ 75</td>
-<td align="right">€ 195</td>
+<td align="right">€ 80</td>
+<td align="right">€ 210</td>
 </tr>
 <tr>
 <td>Shiatsutherapie Vip</td>
-<td align="right">€ 90</td>
-<td align="right">€ 240</td>
+<td align="right">€ 95</td>
+<td align="right">€ 260</td>
 </tr>
 <tr>
 <td>Shiatsu Kind</td>
@@ -30,8 +31,8 @@ menu:
 </tr>
 <tr>
 <td>Japanse Gezichtsmassage</td>
-<td align="right">€ 75</td>
-<td align="right">€ 195</td>
+<td align="right">€ 80</td>
+<td align="right">€ 210</td>
 </tr>
 <tr>
 <td> </td>
@@ -67,7 +68,7 @@ Rekeningnummer: NL64RABO 0155684388 tnv LA Westerik.
 
 Je krijgt een factuur mee, betaling contant of overmaken. Er is (nog) geen pinapparaat aanwezig in de praktijk.
 
-Mochten de kosten een probleem vormen, neem dan contact met mij op om andere opties te bespreken.  
+Mochten de kosten een probleem vormen, neem dan contact met mij op om andere opties te bespreken.
 
 Annulering tot 24 uur voor aanvang is kosteloos. Binnen die 24 uur kan het door overmacht – denk aan ziekte – soms niet anders. Als je onmiddelijk een nieuwe afspraak maakt op korte termijn, breng ik de kosten niet in rekening. In alle overige gevallen wordt echter 100% in rekening gebracht.
 
