@@ -1,5 +1,8 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
+baseURL = "http://shiatsuhetgooi.nl/"
+locale = "nl-nl"
 sectionPagesMenu = "main"
 title = "Shiatsu het Gooi"
 theme = "shg"
+
+[markup.goldmark.renderer]
+unsafe = true
